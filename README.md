@@ -1,4 +1,4 @@
-# Projeto_ETL_Python_IA
+# Projeto de ETL Pipeline em Python utilizando API do Chat-GPT
 
 Desafio de projeto feito pelo BootCamp Santander DIO de Ciência de Dados.
 
